@@ -1,2 +1,2 @@
 # wids2024
-23rd solution
+23rd place solution
